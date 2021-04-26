@@ -1,5 +1,5 @@
 pkgname = ports-zerok
-pkgver = 1.9.4.1-1
+pkgver = 1.9.4.1-2
 pkgdesc = Open source RTS game with physical projectiles, smart units and powerful UI, running on the Spring engine.
 arch = x86_64
 group = sys-ports

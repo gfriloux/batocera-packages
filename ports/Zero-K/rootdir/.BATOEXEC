@@ -11,6 +11,6 @@ gamelist = ports
    <publisher>Zero-K Team</publisher>
    <genre>Strategy</genre>
    <players>1</players>
-   <thumbnail>./data/zero-k/thumbnail.png</thumbnail>
+   <thumbnail>./data/zero-k/thumbnail.jpg</thumbnail>
    <video>./data/zero-k/video.webm</video>
  </game>
