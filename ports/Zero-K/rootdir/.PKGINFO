@@ -1,0 +1,7 @@
+pkgname = ports-zerok
+pkgver = 1.9.4.1-1
+pkgdesc = Open source RTS game with physical projectiles, smart units and powerful UI, running on the Spring engine.
+arch = x86_64
+group = sys-ports
+packager = kuri
+url = https://zero-k.info/

@@ -1,0 +1,16 @@
+gamelist = ports
+ <game>
+   <path>./Zero-K.sh</path>
+   <name>Zero-K</name>
+   <desc>
+   Zero-K is an expansive Real Time Strategy game. Fight epic battles over land, air and sea on 100s of maps. Manipulate the terrain and throw units around. Explore an abandoned galaxy, solo or co-op, in 70 campaign missions. Hop online for a tense 1v1 or massive battles with up to 32 players.
+   </desc>
+   <rating>0.95</rating>
+   <releasedate>20180427T000000</releasedate>
+   <developer>Zero-K Team</developer>
+   <publisher>Zero-K Team</publisher>
+   <genre>Strategy</genre>
+   <players>1</players>
+   <thumbnail>./data/zero-k/thumbnail.png</thumbnail>
+   <video>./data/zero-k/video.webm</video>
+ </game>
