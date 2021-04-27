@@ -1,0 +1,7 @@
+pkgname = ports-supertuxkart
+pkgver = 1.2-1
+pkgdesc = SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.
+arch = x86_64
+group = sys-ports
+packager = kuri
+url = https://supertuxkart.net/Main_Page
