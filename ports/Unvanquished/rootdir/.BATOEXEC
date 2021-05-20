@@ -1,0 +1,16 @@
+gamelist = ports
+ <game>
+   <path>./Unvanquished.sh</path>
+   <name>Unvanquished</name>
+   <desc>
+   Unvanquished is a fast-paced, futuristic FPS with RTS elements, pitting technologically advanced humans against hordes of highly adaptable aliens. The player can choose from either team, providing a fresh gameplay experience on both sides of the conflict. The game is under highly active development, with a new alpha release being made at the beginning of each month.
+   </desc>
+   <rating>0.92</rating>
+   <releasedate>20120229T000000</releasedate>
+   <developer>Unvanquished Team</developer>
+   <publisher>Unvanquished Team</publisher>
+   <genre>FPS</genre>
+   <players>1</players>
+   <thumbnail>./data/unvanquished/thumbnail.png</thumbnail>
+   <screenshot>./data/unvanquished/screenshot.png</screenshot>
+ </game>

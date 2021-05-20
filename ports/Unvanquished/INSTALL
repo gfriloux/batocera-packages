@@ -1,0 +1,7 @@
+exec = /bin/bash
+
+.INSTALL_END
+echo drivers=alsa > ~/.alsoftrc
+
+.UNINSTALL_END
+rm -fr /userdata/roms/.data/Unvanquished

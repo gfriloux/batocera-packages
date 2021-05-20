@@ -1,0 +1,7 @@
+pkgname = ports-unvanquished
+pkgver = 0.52.0-1
+pkgdesc = Unvanquished is a fast-paced, futuristic FPS with RTS elements
+arch = x86_64
+group = sys-ports
+packager = kuri
+url = https://unvanquished.net/
