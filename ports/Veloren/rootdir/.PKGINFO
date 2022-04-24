@@ -1,0 +1,7 @@
+pkgname = ports-veloren
+pkgver = 2022.04.24-1
+pkgdesc = Veloren is a multiplayer voxel RPG
+arch = x86_64
+group = sys-ports
+packager = kuri
+url = https://veloren.net/

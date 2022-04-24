@@ -1,0 +1,4 @@
+exec = /bin/bash
+
+.UNINSTALL_END
+rm -fr /userdata/roms/.data/Veloren
